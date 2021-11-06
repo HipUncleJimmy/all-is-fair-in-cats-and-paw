@@ -1,5 +1,6 @@
 {
     "name": "All Is Fair In Cats And Paw",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
